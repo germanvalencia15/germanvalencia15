@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm German, an <a href="https://linkedin.com/in/Josh">IT Professional 
+<h1>Hi, I'm German, an <a href="https://linkedin.com/in/valencia-german">IT Professional 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com//in/valencia-german
